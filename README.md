@@ -1,2 +1,2 @@
-# Portfolio
-I am making portfolio website using react.
+# My Portfolio Website
+Built using React and Tailwind CSS
